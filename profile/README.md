@@ -6,7 +6,7 @@
 * [sd-notify](https://google.com/)
 * [ox_lib](https://google.com/)
 * [qs-notify](https://google.com/)
-* [qs-notify](https://google.com/)
+* [um-notify](https://github.com/alp1x/um-notify)
 * [qs-notify](https://google.com/)
 * [qs-notify](https://google.com/)
 * [qs-notify](https://google.com/)
